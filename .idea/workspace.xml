@@ -6,15 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1095a27d-a421-4d08-b8e5-76041a46cc09" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_cloud_euraka_server_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="1095a27d-a421-4d08-b8e5-76041a46cc09" name="Default Changelist" comment="test1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ribbon/target/classes/META-INF/ribbon.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/servicesupport/target/classes/META-INF/servicesupport.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-euraka-server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-euraka-server/target/classes/application.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
